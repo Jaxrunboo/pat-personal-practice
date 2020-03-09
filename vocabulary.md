@@ -8,3 +8,4 @@
 > ancestor 祖先
 > descendant 后裔、子孙
 > respectively 分别的、各自的
+> postorder traversal sequence 后序遍历序列
