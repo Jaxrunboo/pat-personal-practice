@@ -9,3 +9,4 @@
 > descendant 后裔、子孙
 > respectively 分别的、各自的
 > postorder traversal sequence 后序遍历序列
+> corresponding 对应的，相应的；一致的
